@@ -1,0 +1,21 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Source Han Sans SC VF",
+  "textFontFamily": "Source Han Sans SC VF",
+  "monospaceFontFamily": "Fira Code,Source Han Sans SC VF",
+  "baseFontSizeAction": true,
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "分割线美化",
+    "日历美化",
+    "Thino 单文件时间轴样式",
+    "搜索关键字改色",
+    "气泡应用框"
+  ],
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "showRibbon": true
+}

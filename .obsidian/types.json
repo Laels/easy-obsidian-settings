@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Difficulty": "text",
+    "Author": "multitext",
+    "Create Date": "datetime",
+    "date": "date",
+    "excalidraw-plugin": "text"
+  }
+}

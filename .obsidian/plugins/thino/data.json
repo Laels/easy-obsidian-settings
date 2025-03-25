@@ -1,0 +1,81 @@
+{
+  "StartDate": "Sunday",
+  "InsertAfter": "# Journal",
+  "UserName": "THINO 😉",
+  "ProcessEntriesBelow": "",
+  "Language": "en",
+  "SaveMemoButtonLabel": "NOTEIT",
+  "SaveMemoButtonIcon": "✍️",
+  "ShareFooterStart": "{ThinoNum} Thino {UsedDay} Day",
+  "ShareFooterEnd": "✍️ by {UserName}",
+  "DefaultPrefix": "List",
+  "UseDailyOrPeriodic": "Daily",
+  "InsertDateFormat": "Tasks",
+  "DefaultEditorLocation": "Top",
+  "UseButtonToShowEditor": false,
+  "FocusOnEditor": true,
+  "OpenDailyMemosWithMemos": true,
+  "HideDoneTasks": false,
+  "ShowTaskLabel": false,
+  "OpenMemosAutomatically": false,
+  "ShowTime": true,
+  "ShowDate": true,
+  "AddBlankLineWhenDate": false,
+  "AutoSaveWhenOnMobile": false,
+  "DeleteFileName": "delete",
+  "QueryFileName": "query",
+  "UseVaultTags": false,
+  "SetCustomBackgroundImage": false,
+  "SetCustomMemoFooter": false,
+  "DefaultLightBackgroundImage": "",
+  "DefaultDarkBackgroundImage": "",
+  "DefaultMemoComposition": "{TIME} {CONTENT}",
+  "CommentOnMemos": false,
+  "CommentsInOriginalNotes": false,
+  "FetchMemosMark": "#memo",
+  "FetchMemosFromNote": false,
+  "ShowCommentOnMemos": false,
+  "ShowLeftSideBar": false,
+  "MemoListView": "list",
+  "MemoSaveLocation": "DAILY",
+  "MemoOtherSaveLocation": {
+    "MemoDefaultCanvasPath": "basic.thino.canvas",
+    "MemoDefaultMultiFilePath": "Thino",
+    "MemoDefaultSingleFilePath": "basic.thino.md"
+  },
+  "MemoDailyTarget": 5,
+  "HeatmapColorScheme": "default",
+  "EnabledHttpApi": false,
+  "HttpApiIpType": "localhost",
+  "HttpApiPort": "43999",
+  "AutoDownloadImage": false,
+  "EditorType": "obsidian",
+  "EnabledLocationList": [
+    {
+      "value": "DAILY",
+      "target": "ProcessEntriesBelow",
+      "insert": "InsertAfter"
+    },
+    {
+      "value": "CANVAS",
+      "target": "MemoDefaultCanvasPath"
+    },
+    {
+      "value": "MULTI",
+      "target": "MemoDefaultMultiFilePath"
+    },
+    {
+      "value": "FILE",
+      "target": "MemoDefaultSingleFilePath"
+    }
+  ],
+  "DeleteThinoDirectly": false,
+  "CaptureKey": {
+    "EnableCaptureKey": false,
+    "OpenThinoGlobally": "CommandOrControl+Shift+T",
+    "ShowNearMouse": false
+  },
+  "startSync": false,
+  "tokenForVerify": {},
+  "saveThinoType": "FILE"
+}

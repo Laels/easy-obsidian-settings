@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "附件",
+  "showLineNumber": true,
+  "showInlineTitle": false,
+  "vimMode": true,
+  "showIndentGuide": true,
+  "useTab": false,
+  "promptDelete": false,
+  "uriCallbacks": true,
+  "strictLineBreaks": true,
+  "tabSize": 4
+}

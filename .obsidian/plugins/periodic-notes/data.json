@@ -1,0 +1,73 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "",
+        "folder": "附件/记录/日记",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "week": {
+        "enabled": true,
+        "format": "",
+        "folder": "附件/记录/周记",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "month": {
+        "format": "",
+        "folder": "",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "quarter": {
+        "format": "",
+        "folder": "",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "year": {
+        "format": "",
+        "folder": "",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "id": "Default",
+      "ctime": "2024-03-09T04:32:34+08:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "format": "",
+    "folder": "附件/记录/日记",
+    "template": "",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "",
+    "folder": "附件/记录/周记",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

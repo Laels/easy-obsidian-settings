@@ -1,0 +1,241 @@
+{
+  "workspaces": {
+    "新概念模拟电路": {
+      "main": {
+        "id": "04f878b0f7241b2d",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d570421c5362dcd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66b4fc7a28a6462a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "100 学习/电路基础知识/模拟电子技术/Analog-Circuit-compilation-yang.pdf",
+                    "page": 15,
+                    "left": 92,
+                    "top": 487,
+                    "zoom": 1.1
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Analog-Circuit-compilation-yang"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6ae72de6eb23d9ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1326dd49eef1d05",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 学习/电路基础知识/模拟电子技术/新概念模拟电路.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "新概念模拟电路"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f30a5ae19c21d679",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b214b33f1aee6c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7a7a333249e282d9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "0fd4e4397f87c86a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "circuit",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "0a8b6a458e3ed6b2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c1d19ddcbd2ee4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ee29b906b572f37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b210e2c238848b5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "100 学习/120 计算机科学/语言类/C语言/C语言程序设计：现代方法（第二版）.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for C语言程序设计：现代方法（第二版）"
+                }
+              },
+              {
+                "id": "feb339cf2b32bf3f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "100 学习/120 计算机科学/语言类/C语言/C语言程序设计：现代方法（第二版）.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from C语言程序设计：现代方法（第二版）"
+                }
+              },
+              {
+                "id": "39cf8f553ab63a72",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "aa4a1f44e472bc9d",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "4e2ebc928f0b857e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "100 学习/120 计算机科学/语言类/C语言/C语言程序设计：现代方法（第二版）.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of C语言程序设计：现代方法（第二版）"
+                }
+              },
+              {
+                "id": "3ad2302b30e3d589",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "omnisearch:Omnisearch": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "periodic-notes:Open today's daily note": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-kanban:Create new board": false,
+          "cloze:Toggle all clozes": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false
+        }
+      },
+      "active": "a1326dd49eef1d05",
+      "mtime": "2025-03-04T18:20:50+08:00"
+    }
+  },
+  "active": "新概念模拟电路"
+}

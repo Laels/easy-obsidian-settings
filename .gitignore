@@ -1,0 +1,10 @@
+# 排除系统文件
+.DS_Store
+*.tmp
+
+# 排除插件缓存
+.obsidian/cache/
+
+
+# 排除工作区配置（可选）
+.obsidian/workspace.json
